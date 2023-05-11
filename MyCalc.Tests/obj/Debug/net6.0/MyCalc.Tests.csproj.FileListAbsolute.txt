@@ -1,0 +1,6 @@
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalc.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalc.Tests\obj\Debug\net6.0\MyCalc.Tests.csproj.AssemblyReference.cache
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalc.Tests\obj\Debug\net6.0\MyCalc.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalc.Tests\obj\Debug\net6.0\MyCalc.Tests.AssemblyInfoInputs.cache
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalc.Tests\obj\Debug\net6.0\MyCalc.Tests.AssemblyInfo.cs
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalc.Tests\obj\Debug\net6.0\MyCalc.Tests.csproj.CoreCompileInputs.cache

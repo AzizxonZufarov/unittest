@@ -1,0 +1,12 @@
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\net6.0\MyCalcLib.deps.json
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\net6.0\MyCalcLib.dll
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\bin\Debug\net6.0\MyCalcLib.pdb
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\MyCalcLib.csproj.AssemblyReference.cache
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\MyCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\MyCalcLib.AssemblyInfoInputs.cache
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\MyCalcLib.AssemblyInfo.cs
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\MyCalcLib.csproj.CoreCompileInputs.cache
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\MyCalcLib.dll
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\refint\MyCalcLib.dll
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\MyCalcLib.pdb
+D:\AZA2\Install\Open Server izvlechenie\OpenServer\OSPanel\domains\localhost\C#\UnitTest\MyCalcLib\MyCalcLib\obj\Debug\net6.0\ref\MyCalcLib.dll
